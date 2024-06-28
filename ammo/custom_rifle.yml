@@ -1,0 +1,12 @@
+invalid: false
+name: rifle
+displayname: rifle
+lore:
+- Custom_item
+id: -1
+craftingReturnAmount: 64
+price: 100
+maxItemStack: 64
+material: AIR
+piercingSeverity: 1.0
+lastModifiedByQA: 1719568306201

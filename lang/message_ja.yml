@@ -1,0 +1,71 @@
+Prefix: '&8[&2QualityArmory&8]&r'
+NoPermAnvilMessage: ' &a この武器作業台を使用する権限がありません。Shift+クリックで金床にアクセスします。'
+NoPerm: '&c その操作を行う権限がありません。'
+Reload: ' 銃と設定がリロードされました。'
+ShopName: '武器ショップ ページ:'
+NoMoney: お金が足りないため、購入できません。
+CraftingBenchName: '武器作業台 ページ:'
+Missing_Ingredients: 必要な材料がすべて揃っていません。
+NoResourcepackMessage1: ' &c&l リソースパックをダウンロード中...'
+NoResourcepackMessage2: ' &f カスタムアイテムを見るためにリソースパックを受け入れてください'
+Lore_Ammo: '&a弾薬'
+lore_bullets: '&a弾丸'
+Lore_Damage: '&aダメージ'
+Lore_Durib: 耐久度
+Lore_ingredients: 材料
+Lore_Variants: '&7バリアント:'
+Lore_Price: '&6価格: '
+Lore_DamagePerSecond: '&2DPS'
+Lore_Crafts: 作成
+Lore_Returns: リターン
+Reloading_Message: '[リロード中...]'
+State_AmmoCount: '[%total%]'
+State_OutOfAmmo: '[弾切れ]'
+HotbarMessage: '%name% = %amount%/%max% %state%'
+Kick_message_if_player_denied_request: "&c リソースパックを受け入れなかったため、キックされました。\n&f サーバーに再参加するには、サーバーエントリを編集して「リソースパックのプロンプト」を「受け入れる」または「プロンプト」に設定してください。"
+Lore-LMB-Single: §8[LMB] で単発モード
+Lore-LMB-FullAuto: §8[しゃがみ]+[LMB] でフルオートモード
+Lore-RMB-Reload: §8[RMB] でリロード
+Lore-Ironsights-RMB: §8[RMB] でアイアンサイトを開く
+Lore-Ironsights-Sneak: §8[しゃがみ] でアイアンサイトを開く
+Lore-Reload-Dropitem: §8[アイテムを捨てる] でリロード
+Lore-Reload-RMB: §8[RMB] でリロード
+Lore-Helmet-RMB: §8[RMB] でヘルメットを装備
+Shop_Confirm: '&a%item% を $%cost% で購入しました！'
+Resourcepack_InCaseOfCrash: リソースパックがクライアントをクラッシュさせる場合は、リクエストを拒否して /qa getResourcepack コマンドを使用してリソースパックを取得してください。
+Resourcepack_Download: このリソースパックをダウンロードして有効にすると、カスタムアイテムが表示されます（読み込みに時間がかかる場合があります）。
+Resourcepack_NowBypass: このコマンドを発行することで、リソースパックのホワイトリストに追加されました。プロンプトが表示されなくなります。
+Resourcepack_NowOptIn: このコマンドを発行することで、ホワイトリストから削除されました。リソースパックのプロンプトが表示されるようになります。
+grenadeAlreadyPulled: ピンはすでに引き抜かれています！
+grenadePull: ' まずピンを引き抜いてください...'
+Medkit-FullyHealed: '&f完全に治癒しています。今は必要ありません！'
+Medkit-Healing: 治癒中
+Medkit-Bleeding: '出血率:'
+Medkit-HEALING_HEARTS_AMOUNT: 1.0
+Medkit-HEALING_WEAPPING_DELAY_IN_SECONDS: 6.0
+Medkit-Lore_RMB: '&f[RMB] で自分を治癒する！'
+Bleeding:
+  Losingconsciousness: '&c出血による意識喪失が始まっています！'
+  StartBleeding: '&c出血しています！出血を止めるために救急キットを見つけてください！'
+  ProtectedByKevlar: '&aケブラーのベストがその弾丸から守ってくれました！'
+gui:
+  prevPage: '&6前のページ:'
+  nextPage: '&6次のページ:'
+AmmoBag:
+  current: '&a弾薬: '
+  type: '&a弾薬の種類: '
+EntityType:
+  IRON_INGOT: 鉄インゴット
+  REDSTONE: レッドストーン
+  WOOD: 木材
+  GOLD_INGOT: 金インゴット
+  BLAZE_POWDER: ブレイズパウダー
+  SULPHUR: 硫黄
+  BLAZE_ROD: ブレイズロッド
+  TNT: TNT
+  STRING: 糸
+  LEATHER: 革
+  NETHER_STAR: ネザースター
+  WOOL: 羊毛
+  GOLDEN_APPLE: 金のリンゴ
+  OBSIDIAN: 黒曜石
