@@ -1,5 +1,5 @@
 name: m4a1s
-displayname: '&6M4A1s'
+displayname: '&6M4A1s(P)'
 id: 44
 variant: 0
 craftingRequirements:
@@ -51,4 +51,4 @@ firing_knockback: 0
 KilledByMessage: '%player% was shot by %killer% using a %name%'
 DestructableMaterials:
 - MATERIAL_NAME_HERE
-lastModifiedByQA: 1719585404671
+lastModifiedByQA: 1723910246859

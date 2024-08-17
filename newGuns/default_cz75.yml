@@ -1,5 +1,5 @@
 name: cz75
-displayname: '&6CZ.75'
+displayname: '&6CZ.75(S)'
 id: 2
 variant: 1
 craftingRequirements:
@@ -52,4 +52,4 @@ firing_knockback: 0
 KilledByMessage: '%player% was shot by %killer% using a %name%'
 DestructableMaterials:
 - MATERIAL_NAME_HERE
-lastModifiedByQA: 1719585404717
+lastModifiedByQA: 1723910246926
