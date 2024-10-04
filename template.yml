@@ -71,9 +71,10 @@ particles:
   bullet_particleMaterial: COAL_BLOCK
 # ヘッドショットが発生したときにプレイヤーに適用される追加ダメージの量を制御します。デフォルトでは、元のダメージの3.5倍
 headshotMultiplier: 3.5
+# 武器の最大スタック数
+maxItemStack: 1
 invalid: false
 durability: 1000
-maxItemStack: 1
 slownessOnEquip: 0
 Version_18_Support: false
 ChargingHandler: none

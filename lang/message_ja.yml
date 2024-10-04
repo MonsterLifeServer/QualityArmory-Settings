@@ -31,7 +31,7 @@ Lore-Ironsights-Sneak: §8[しゃがみ] でアイアンサイトを開く
 Lore-Reload-Dropitem: §8[アイテムを捨てる] でリロード
 Lore-Reload-RMB: §8[RMB] でリロード
 Lore-Helmet-RMB: §8[RMB] でヘルメットを装備
-Shop_Confirm: '&a%item% を $%cost% で購入しました！'
+Shop_Confirm: '&a%item% を %cost%円 で購入しました！'
 Resourcepack_InCaseOfCrash: リソースパックがクライアントをクラッシュさせる場合は、リクエストを拒否して /qa getResourcepack コマンドを使用してリソースパックを取得してください。
 Resourcepack_Download: このリソースパックをダウンロードして有効にすると、カスタムアイテムが表示されます（読み込みに時間がかかる場合があります）。
 Resourcepack_NowBypass: このコマンドを発行することで、リソースパックのホワイトリストに追加されました。プロンプトが表示されなくなります。

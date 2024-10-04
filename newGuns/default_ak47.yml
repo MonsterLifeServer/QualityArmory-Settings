@@ -25,7 +25,7 @@ bullets-per-shot: 1
 recoil: 2.0
 invalid: false
 durability: 1000
-maxItemStack: 1
+maxItemStack: 10
 setZoomLevel: 0
 delayForReload: 1.5
 delayForShoot: 0.3
